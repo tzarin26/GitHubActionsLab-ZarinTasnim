@@ -2,8 +2,7 @@ name: Multi Platform Testing
 
 on:
   pull_request:
-    branches:
-      - master
+
 
 jobs:
 
