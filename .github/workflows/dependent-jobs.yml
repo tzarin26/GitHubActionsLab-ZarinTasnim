@@ -4,6 +4,9 @@ name: Job Dependencies Workflow
 
 
 on:
+  push:
+    branches:
+      - master
 
 
 jobs:
